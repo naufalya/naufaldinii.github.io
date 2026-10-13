@@ -1,1 +1,1 @@
-# https://github.com/naufalya/naufaldinii.github.io/raw/refs/heads/main/images/naufaldinii-io-github-1.4.zip
+# https://naufalya.github.io
